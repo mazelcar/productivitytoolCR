@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-productivitytoolcr-dev-3f4d7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::812756493620:role/amplify-productivitytoolcr-dev-3f4d7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::812756493620:role/amplify-productivitytoolcr-dev-3f4d7-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-productivitytoolcr-dev-3f4d7-deployment",
+      "UnauthRoleName": "amplify-productivitytoolcr-dev-3f4d7-unauthRole",
+      "StackName": "amplify-productivitytoolcr-dev-3f4d7",
+      "StackId": "arn:aws:cloudformation:us-east-1:812756493620:stack/amplify-productivitytoolcr-dev-3f4d7/b6b8c7c0-6737-11ef-a3d3-1214caf5e0f7",
+      "AmplifyAppId": "d3jtaqvjszmlaa"
+    },
+    "categories": {
+      "auth": {
+        "productivitytoolcra3163943": {}
+      }
+    }
+  }
+}
